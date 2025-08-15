@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; Sophomore at Graphic Era Hill University, Dehradun, India.
+- 🎓 &nbsp; Junior at Graphic Era Hill University, Dehradun, India.
 - 💻 &nbsp; Studying Computer Science and exploring Full Stack Development.
 - 🌱 &nbsp; Learning about Machine Learning and Cloud Architecture.
 - ⚙️ &nbsp; Grinding Leetcode for ✨Problem Solving✨.
